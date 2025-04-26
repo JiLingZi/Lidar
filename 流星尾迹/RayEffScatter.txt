@@ -1,0 +1,9 @@
+# Ray&Eff Scattering cross sections of 6 Channel
+Channel   RayScatter  EffScatter
+Ni        3.5523e-31  3.7701e-18
+Fe        2.5223e-31  3.0113e-18
+Cap      2.0172e-31   1.091e-16
+Ca        1.5133e-31  2.9601e-16
+Na        4.0088e-32  7.3505e-17
+K          1.3747e-32  3.8281e-17
+CapF      2.0172e-31   5.2837e-17
